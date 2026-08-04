@@ -1,1 +1,1 @@
-Hedging US ETFs During the US-China Trade War. 
+An inspection of the US-China Trade War. 
